@@ -1,6 +1,6 @@
 {
 	"name": "Sigma Rules and ART Tests",
-	"version": "3.0",
+	"version": "4.2",
 	"domain": "mitre-enterprise",
 	"description": "",
 	"filters": {
