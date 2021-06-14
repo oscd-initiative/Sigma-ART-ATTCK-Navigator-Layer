@@ -2,11 +2,7 @@
 	"name": "Sigma Rules and ART Tests",
 	"version": "4.2",
 	"domain": "mitre-enterprise",
-	"description": "
-    Blue - only Sigma Rule exists;
-    Red - only ART Test exists;
-    Purple - both Sigma Rule and ART Test exist.
-",
+	"description": "    Blue - only Sigma Rule exists;    Red - only ART Test exists;    Purple - both Sigma Rule and ART Test exist.",
 	"filters": {
 		"stages": [
 			"act"
